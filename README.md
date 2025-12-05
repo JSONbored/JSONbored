@@ -4,10 +4,6 @@
 
 ##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JSONbored&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JSONbored&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JSONbored&theme=dracula&hide_border=true)
 
 ##
