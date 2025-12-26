@@ -1,4 +1,4 @@
-hi, i'm **JSONbored** 👋
+hi, i'm **ghost (aka) JSONbored** 👋
 
 infrastructure engineer focused on building scalable systems for web3 networks, integrating AI into development workflows, and exploring edge computing solutions.
 
@@ -17,13 +17,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-📈 **github metrics**
-
-![Metrics](https://github.com/JSONbored/JSONbored/blob/main/github-metrics.svg)
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
