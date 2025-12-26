@@ -1,0 +1,55 @@
+<svg width="280" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @media (prefers-color-scheme: light) {
+        .button-bg { fill: #3e82f6; }
+        .button-text { fill: #ffffff; }
+        .button-hover { fill: #2563eb; }
+      }
+      @media (prefers-color-scheme: dark) {
+        .button-bg { fill: #3e82f6; }
+        .button-text { fill: #ffffff; }
+        .button-hover { fill: #60a5fa; }
+      }
+      .button-bg {
+        rx: 8;
+        transition: fill 0.2s;
+      }
+      .button-bg:hover {
+        fill: var(--hover-color);
+      }
+      .pulse-ring {
+        animation: pulse-ring 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+      }
+      @keyframes pulse-ring {
+        0% {
+          transform: scale(1);
+          opacity: 1;
+        }
+        100% {
+          transform: scale(1.1);
+          opacity: 0;
+        }
+      }
+    </style>
+  </defs>
+  
+  <!-- Pulse ring effect -->
+  <rect class="pulse-ring button-bg" x="0" y="0" width="280" height="60" rx="8" opacity="0.3"/>
+  
+  <!-- Button background -->
+  <rect class="button-bg" x="0" y="0" width="280" height="60" rx="8"/>
+  
+  <!-- Calendar icon -->
+  <g transform="translate(20, 15)">
+    <rect x="0" y="8" width="16" height="14" rx="2" fill="none" stroke="white" stroke-width="1.5"/>
+    <line x1="4" y1="0" x2="4" y2="8" stroke="white" stroke-width="1.5"/>
+    <line x1="12" y1="0" x2="12" y2="8" stroke="white" stroke-width="1.5"/>
+    <circle cx="6" cy="14" r="1.5" fill="white"/>
+    <circle cx="10" cy="14" r="1.5" fill="white"/>
+  </g>
+  
+  <!-- Button text -->
+  <text x="50" y="38" class="button-text" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="600">Schedule a Call</text>
+</svg>
+

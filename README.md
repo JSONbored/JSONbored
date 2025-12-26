@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm JSONbored 👋
+<img alt="Terminal/CLI style banner showing infrastructure engineer profile" src="assets/terminal-banner.svg" width="900" height="200">
 
 **Senior Infrastructure Engineer | Web3 & AI-Enhanced Systems**
 
@@ -12,7 +12,7 @@ Building scalable infrastructure, reliable systems, and developer tools that pow
 
 <div align="center">
 
-![Animated typing effect showing rotating professional messages](https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+Web3+infrastructure;Maintaining+high-availability+systems;Exploring+AI-enhanced+workflows;Creating+robust+developer+tools&center=true&size=20&color=58a6ff&vCenter=true&width=600&height=50&duration=3000&pause=1000)
+![GitHub stats card](https://github-readme-stats.vercel.app/api?username=JSONbored&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide=prs,issues&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JSONbored&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=6) ![GitHub streak](https://github-readme-streak-stats.demolab.com/?user=JSONbored&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
@@ -20,145 +20,97 @@ Building scalable infrastructure, reliable systems, and developer tools that pow
 
 <div align="center">
 
-<img alt="Animated infrastructure hero with particles and waves representing Web3 infrastructure" src="assets/animated-hero.svg" width="800" height="200">
+<a href="https://cal.com/jsonbored/30min" target="_blank" rel="noopener noreferrer">
+  <img alt="Schedule a call with JSONbored on Cal.com" src="assets/cal-com-button.svg" width="280" height="60">
+</a>
+
+**Interested in collaborating?** [Schedule a 30-minute call](https://cal.com/jsonbored/30min) to discuss infrastructure, Web3, or AI-enhanced workflows.
 
 </div>
 
 ---
 
-## 🎯 Professional Focus Areas
+## Current Work
 
-<div align="center">
+I'm currently focused on:
 
-**High Availability Systems** • **Scalable Infrastructure** • **Container Orchestration**
-
-**Observability & Monitoring** • **Web3 Infrastructure** • **AI-Enhanced Workflows**
-
-</div>
-
-<div align="center">
-
-<sub>Specializing in building reliable, distributed systems with comprehensive monitoring and AI-powered automation</sub>
-
-</div>
+- **Web3 Infrastructure** - Building reliable, scalable infrastructure for blockchain networks and decentralized systems
+- **AI-Enhanced Workflows** - Integrating LLMs and AI tools into development and infrastructure automation
+- **Edge Computing** - Exploring mobile infrastructure solutions and edge computing patterns
 
 ---
 
-## 🛠️ Technology Stack
+## Skills & Technologies
 
-<div align="center">
+### Infrastructure & Orchestration
 
-### Core Infrastructure
-
-**HashiCorp Stack** (Nomad • Consul • Vault) • **Terraform** • **Ansible** • **Docker** • **Kubernetes**
+![HashiCorp Nomad](https://img.shields.io/badge/Nomad-00D9FF?style=flat-square&logo=hashicorp&logoColor=white)
+![HashiCorp Consul](https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=hashicorp&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=hashicorp&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### Cloud & Observability
 
-**AWS** • **GCP** • **DigitalOcean** • **Prometheus** • **Grafana** • **Tailscale**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-0055FF?style=flat-square&logo=tailscale&logoColor=white)
 
 ### Development
 
-**TypeScript** • **Rust** • **Python** • **Next.js** • **React** • **PostgreSQL**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Web3 & Blockchain
 
-**Ethereum** • **Cosmos SDK** • **Validator Infrastructure** • **Node Operations**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Cosmos](https://img.shields.io/badge/Cosmos-2E3148?style=flat-square&logo=cosmos&logoColor=white)
 
 ### AI & Automation
 
-**LLM Integration** • **Ollama** • **AI-Enhanced Workflows** • **GitHub Actions**
-
-</div>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-![GitHub statistics showing total contributions, stars, commits, pull requests, and issues for JSONbored](https://github-readme-stats.vercel.app/api?username=JSONbored&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide=prs,issues)
-
-![Top programming languages used by JSONbored based on GitHub activity](https://github-readme-stats.vercel.app/api/top-langs/?username=JSONbored&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=8)
-
-![GitHub contribution streak statistics showing current and longest streak for JSONbored](https://github-readme-streak-stats.demolab.com/?user=JSONbored&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![3D GitHub contribution graph](https://github-profile-3d-contrib.vercel.app/api/?username=JSONbored&limit-contributions=365&theme=github_dark&combine-all-by-a-single-commit=false&animation=true)
 
 </div>
-
----
-
-## 🎨 3D Contribution Graph
-
-<div align="center">
-
-![3D GitHub contribution graph visualization](https://github-profile-3d-contrib.vercel.app/api/?username=JSONbored&limit-contributions=365&theme=github_dark&combine-all-by-a-single-commit=false&animation=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JSONbored/JSONbored/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JSONbored/JSONbored/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake graph showing coding activity" src="https://raw.githubusercontent.com/JSONbored/JSONbored/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake graph" src="https://raw.githubusercontent.com/JSONbored/JSONbored/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
----
-
-## 📝 Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-## 💡 Current Focus
-
-I'm currently focused on:
-
-- **Web3 Infrastructure**: Building reliable, scalable infrastructure for blockchain networks and decentralized systems
-- **AI-Enhanced Workflows**: Integrating LLMs and AI tools into development and infrastructure automation
-- **Edge Computing**: Exploring mobile infrastructure solutions and edge computing patterns
-- **Observability**: Implementing comprehensive monitoring and observability systems for distributed infrastructure
-
----
-
-## 🚀 Interests & Hobbies
-
-When I'm not building infrastructure, I enjoy:
-
-- **Mobile Infrastructure**: Experimenting with edge computing and mobile infrastructure setups
-- **Travel**: Exploring new places while maintaining remote infrastructure operations
-- **Homelab**: Building and maintaining personal infrastructure projects
-- **Open Source**: Contributing to projects that improve developer experiences
-
----
-
-## 📅 Schedule a Call
+## Connect
 
 <div align="center">
 
-<a href="https://cal.com/jsonbored/30min" target="_blank" rel="noopener noreferrer">
-  <img alt="Animated Cal.com scheduling badge - Click to schedule a meeting" src="assets/cal-com-badge.svg" width="300" height="80">
-</a>
-
-**Interested in collaborating or discussing infrastructure, Web3, or AI-enhanced workflows?**
-
-[Schedule a 30-minute call](https://cal.com/jsonbored/30min) to chat about your project or explore potential opportunities.
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Twitter - Follow JSONbored on Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JSONbored)
-[![GitHub - View JSONbored's GitHub profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JSONbored)
-[![Discord - Join JSONbored's Discord server](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ax3Py4YDrq)
-[![Email - Send email to JSONbored](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghost@zeronode.sh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/JSONbored)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JSONbored)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Ax3Py4YDrq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ghost@zeronode.sh)
 
 </div>
 

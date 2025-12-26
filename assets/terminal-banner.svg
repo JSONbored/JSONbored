@@ -1,0 +1,97 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #ffffff; }
+        .terminal-bg { fill: #f6f8fa; stroke: #d0d7de; }
+        .text { fill: #24292f; }
+        .prompt { fill: #0969da; }
+        .command { fill: #0550ae; }
+        .output { fill: #656d76; }
+        .cursor { fill: #24292f; }
+        .glow { opacity: 0.3; }
+      }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0d1117; }
+        .terminal-bg { fill: #161b22; stroke: #30363d; }
+        .text { fill: #c9d1d9; }
+        .prompt { fill: #58a6ff; }
+        .command { fill: #79c0ff; }
+        .output { fill: #8b949e; }
+        .cursor { fill: #58a6ff; }
+        .glow { opacity: 0.4; }
+      }
+      .terminal-bg {
+        stroke-width: 1;
+        rx: 6;
+      }
+      .cursor-blink {
+        animation: blink 1s step-end infinite;
+      }
+      .typing {
+        animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+      @keyframes typing {
+        from { width: 0; }
+        to { width: 100%; }
+      }
+      @keyframes blink-caret {
+        from, to { border-color: transparent; }
+        50% { border-color: currentColor; }
+      }
+      .pulse {
+        animation: pulse 2s ease-in-out infinite;
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect class="bg" width="900" height="200"/>
+  
+  <!-- Terminal window -->
+  <rect class="terminal-bg" x="50" y="30" width="800" height="140" rx="6"/>
+  
+  <!-- Terminal header (minimize, maximize, close dots) -->
+  <circle cx="70" cy="45" r="4" fill="#ff5f56" opacity="0.6"/>
+  <circle cx="90" cy="45" r="4" fill="#ffbd2e" opacity="0.6"/>
+  <circle cx="110" cy="45" r="4" fill="#27c93f" opacity="0.6"/>
+  
+  <!-- Terminal content -->
+  <g font-family="'SF Mono', 'Monaco', 'Cascadia Code', 'Roboto Mono', monospace" font-size="14">
+    <!-- Prompt line 1 -->
+    <text x="70" y="75" class="prompt">$</text>
+    <text x="85" y="75" class="command">whoami</text>
+    <text x="70" y="95" class="output">JSONbored</text>
+    
+    <!-- Prompt line 2 -->
+    <text x="70" y="115" class="prompt">$</text>
+    <text x="85" y="115" class="command">cat</text>
+    <text x="120" y="115" class="command">role.txt</text>
+    <text x="70" y="135" class="output">Senior Infrastructure Engineer | Web3 &amp; AI-Enhanced Systems</text>
+    
+    <!-- Prompt line 3 with typing effect -->
+    <text x="70" y="155" class="prompt">$</text>
+    <text x="85" y="155" class="command typing">echo "Building scalable infrastructure..."</text>
+    
+    <!-- Cursor -->
+    <rect class="cursor cursor-blink" x="420" y="145" width="8" height="16" rx="1"/>
+  </g>
+  
+  <!-- Subtle infrastructure icons in background -->
+  <g class="pulse" opacity="0.1">
+    <circle cx="750" cy="80" r="3" fill="currentColor"/>
+    <circle cx="780" cy="100" r="3" fill="currentColor"/>
+    <circle cx="720" cy="120" r="3" fill="currentColor"/>
+    <line x1="750" y1="80" x2="780" y2="100" stroke="currentColor" stroke-width="1"/>
+    <line x1="780" y1="100" x2="720" y2="120" stroke="currentColor" stroke-width="1"/>
+  </g>
+</svg>
+
