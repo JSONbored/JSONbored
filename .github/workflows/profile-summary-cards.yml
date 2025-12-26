@@ -1,0 +1,25 @@
+name: Update Profile Summary Cards
+
+on:
+  schedule:
+    # Runs every day at 01:00 UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with Profile Summary Cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.0.9
+        with:
+          USERNAME: JSONbored
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
