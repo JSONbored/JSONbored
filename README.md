@@ -10,7 +10,9 @@ interested in working together? [let's chat](https://cal.com/jsonbored/30min)
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 26 December 2025 - To: 26 December 2025
+
 Total Time: 0 secs
 
 No activity tracked
