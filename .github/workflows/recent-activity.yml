@@ -20,7 +20,8 @@ jobs:
       - name: Update README with recent activity
         uses: readme-workflows/recent-activity@v2
         with:
-          COMMENT_HEADING: '## 📝 Recent Activity'
+          COMMENT_HEADING: '<!--START_SECTION:activity-->'
+          COMMENT_FOOTER: '<!--END_SECTION:activity-->'
           MAX_LINES: 10
           COMMIT_MESSAGE: 'docs: update recent activity'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
