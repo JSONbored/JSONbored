@@ -9,6 +9,13 @@ interested in working together? [let's chat](https://cal.com/jsonbored/30min)
 📊 **coding activity this week**
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 📈 **github metrics**
