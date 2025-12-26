@@ -31,8 +31,6 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_repositories: yes
-          plugin_repositories_limit: 8
           plugin_repositories_order: stars
-          plugin_repositories_sort: stars
           config_timezone: America/New_York
           config_order: header, activity, languages, repositories, metadata

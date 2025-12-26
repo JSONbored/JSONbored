@@ -22,18 +22,4 @@ interested in working together? [let's chat](https://cal.com/jsonbored/30min)
 
 💬 **connect**
 
-<a href="https://x.com/JSONbored" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 12px;">
-  <img src="https://api.iconify.design/simple-icons/x.svg?color=%2358a6ff" alt="X" width="18" height="18" style="vertical-align: middle;">
-</a>
-<a href="https://github.com/JSONbored" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 12px;">
-  <img src="https://api.iconify.design/simple-icons/github.svg?color=%2358a6ff" alt="GitHub" width="18" height="18" style="vertical-align: middle;">
-</a>
-<a href="https://discord.gg/Ax3Py4YDrq" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 12px;">
-  <img src="https://api.iconify.design/simple-icons/discord.svg?color=%2358a6ff" alt="Discord" width="18" height="18" style="vertical-align: middle;">
-</a>
-<a href="mailto:ghost@zeronode.sh" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 12px;">
-  <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%2358a6ff" alt="Email" width="18" height="18" style="vertical-align: middle;">
-</a>
-<a href="https://cal.com/jsonbored/30min" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <img src="https://api.iconify.design/simple-icons/caldotcom.svg?color=%2358a6ff" alt="Cal.com" width="18" height="18" style="vertical-align: middle;">
-</a>
+<a href="https://x.com/JSONbored" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/x.svg?color=%2358a6ff" alt="X" width="20" height="20"></a> <a href="https://github.com/JSONbored" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/github.svg?color=%2358a6ff" alt="GitHub" width="20" height="20"></a> <a href="https://discord.gg/Ax3Py4YDrq" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/discord.svg?color=%2358a6ff" alt="Discord" width="20" height="20"></a> <a href="mailto:ghost@zeronode.sh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%2358a6ff" alt="Email" width="20" height="20"></a> <a href="https://cal.com/jsonbored/30min" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/caldotcom.svg?color=%2358a6ff" alt="Cal.com" width="20" height="20"></a>
