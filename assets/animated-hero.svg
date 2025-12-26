@@ -1,0 +1,78 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1">
+        <animate attributeName="stop-color" values="#58a6ff;#3b82f6;#8b5cf6;#58a6ff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#58a6ff;#3b82f6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <style>
+      @media (prefers-color-scheme: light) {
+        .particle { fill: #3b82f6; }
+        .wave { fill: url(#waveGradient); opacity: 0.3; }
+        .node { fill: #58a6ff; }
+      }
+      @media (prefers-color-scheme: dark) {
+        .particle { fill: #58a6ff; }
+        .wave { fill: url(#waveGradient); opacity: 0.4; }
+        .node { fill: #3b82f6; }
+      }
+      .particle {
+        animation: float 3s ease-in-out infinite;
+      }
+      .particle-1 { animation-delay: 0s; }
+      .particle-2 { animation-delay: 0.5s; }
+      .particle-3 { animation-delay: 1s; }
+      .particle-4 { animation-delay: 1.5s; }
+      .particle-5 { animation-delay: 2s; }
+      .particle-6 { animation-delay: 2.5s; }
+      .wave {
+        animation: wave 4s ease-in-out infinite;
+      }
+      .wave-2 {
+        animation-delay: 1s;
+      }
+      .node {
+        animation: pulse 2s ease-in-out infinite;
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); opacity: 0.6; }
+        50% { transform: translateY(-20px); opacity: 1; }
+      }
+      @keyframes wave {
+        0%, 100% { transform: translateX(0); }
+        50% { transform: translateX(-20px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.7; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.1); }
+      }
+    </style>
+  </defs>
+  
+  <!-- Animated background waves -->
+  <path class="wave wave-1" d="M0,150 Q200,130 400,150 T800,150 L800,200 L0,200 Z"/>
+  <path class="wave wave-2" d="M0,160 Q200,140 400,160 T800,160 L800,200 L0,200 Z"/>
+  
+  <!-- Floating particles (infrastructure nodes) -->
+  <circle class="particle particle-1" cx="100" cy="80" r="4"/>
+  <circle class="particle particle-2" cx="250" cy="60" r="5"/>
+  <circle class="particle particle-3" cx="400" cy="90" r="4"/>
+  <circle class="particle particle-4" cx="550" cy="70" r="5"/>
+  <circle class="particle particle-5" cx="700" cy="85" r="4"/>
+  <circle class="particle particle-6" cx="180" cy="100" r="3"/>
+  
+  <!-- Infrastructure nodes (blockchain/network themed) -->
+  <circle class="node" cx="150" cy="50" r="8"/>
+  <circle class="node" cx="350" cy="40" r="8"/>
+  <circle class="node" cx="550" cy="50" r="8"/>
+  <circle class="node" cx="750" cy="45" r="8"/>
+  
+  <!-- Connection lines (subtle) -->
+  <line x1="150" y1="50" x2="350" y2="40" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+  <line x1="350" y1="40" x2="550" y2="50" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+  <line x1="550" y1="50" x2="750" y2="45" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+</svg>
+

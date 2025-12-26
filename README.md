@@ -1,36 +1,74 @@
+<div align="center">
+
 # Hi there, I'm JSONbored 👋
 
-**web3 infrastructure engineer & entrepreneur** | Currently building innovative solutions at the intersection of blockchain and developer tools.
+**Senior Infrastructure Engineer | Web3 & AI-Enhanced Systems**
 
-I'm passionate about creating robust infrastructure, developer experiences, and open-source tools that empower the web3 ecosystem. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or sharing insights on web3 development.
+Building scalable infrastructure, reliable systems, and developer tools that power the next generation of decentralized applications.
+
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+<div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Animated typing effect showing rotating professional messages](https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+Web3+infrastructure;Maintaining+high-availability+systems;Exploring+AI-enhanced+workflows;Creating+robust+developer+tools&center=true&size=20&color=58a6ff&vCenter=true&width=600&height=50&duration=3000&pause=1000)
 
-### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+</div>
 
-### Infrastructure & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+---
+
+<div align="center">
+
+<img alt="Animated infrastructure hero with particles and waves representing Web3 infrastructure" src="assets/animated-hero.svg" width="800" height="200">
+
+</div>
+
+---
+
+## 🎯 Professional Focus Areas
+
+<div align="center">
+
+**High Availability Systems** • **Scalable Infrastructure** • **Container Orchestration**
+
+**Observability & Monitoring** • **Web3 Infrastructure** • **AI-Enhanced Workflows**
+
+</div>
+
+<div align="center">
+
+<sub>Specializing in building reliable, distributed systems with comprehensive monitoring and AI-powered automation</sub>
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Core Infrastructure
+
+**HashiCorp Stack** (Nomad • Consul • Vault) • **Terraform** • **Ansible** • **Docker** • **Kubernetes**
+
+### Cloud & Observability
+
+**AWS** • **GCP** • **DigitalOcean** • **Prometheus** • **Grafana** • **Tailscale**
+
+### Development
+
+**TypeScript** • **Rust** • **Python** • **Next.js** • **React** • **PostgreSQL**
 
 ### Web3 & Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+
+**Ethereum** • **Cosmos SDK** • **Validator Infrastructure** • **Node Operations**
+
+### AI & Automation
+
+**LLM Integration** • **Ollama** • **AI-Enhanced Workflows** • **GitHub Actions**
+
+</div>
 
 ---
 
@@ -48,12 +86,22 @@ I'm passionate about creating robust infrastructure, developer experiences, and 
 
 ---
 
-## 🐍 Contribution Graph
+## 🎨 3D Contribution Graph
+
+<div align="center">
+
+![3D GitHub contribution graph visualization](https://github-profile-3d-contrib.vercel.app/api/?username=JSONbored&limit-contributions=365&theme=github_dark&combine-all-by-a-single-commit=false&animation=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JSONbored/JSONbored/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JSONbored/JSONbored/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake graph" src="https://raw.githubusercontent.com/JSONbored/JSONbored/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake graph showing coding activity" src="https://raw.githubusercontent.com/JSONbored/JSONbored/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
@@ -65,9 +113,41 @@ I'm passionate about creating robust infrastructure, developer experiences, and 
 
 ---
 
-## 💬 About Me
+## 💡 Current Focus
 
-I'm a web3 infrastructure engineer passionate about building the next generation of decentralized applications and developer tools. I enjoy working on challenging problems, contributing to open source, and helping others in the developer community. When I'm not coding, I'm usually learning about new technologies, exploring the web3 ecosystem, or sharing knowledge through writing and speaking.
+I'm currently focused on:
+
+- **Web3 Infrastructure**: Building reliable, scalable infrastructure for blockchain networks and decentralized systems
+- **AI-Enhanced Workflows**: Integrating LLMs and AI tools into development and infrastructure automation
+- **Edge Computing**: Exploring mobile infrastructure solutions and edge computing patterns
+- **Observability**: Implementing comprehensive monitoring and observability systems for distributed infrastructure
+
+---
+
+## 🚀 Interests & Hobbies
+
+When I'm not building infrastructure, I enjoy:
+
+- **Mobile Infrastructure**: Experimenting with edge computing and mobile infrastructure setups
+- **Travel**: Exploring new places while maintaining remote infrastructure operations
+- **Homelab**: Building and maintaining personal infrastructure projects
+- **Open Source**: Contributing to projects that improve developer experiences
+
+---
+
+## 📅 Schedule a Call
+
+<div align="center">
+
+<a href="https://cal.com/jsonbored/30min" target="_blank" rel="noopener noreferrer">
+  <img alt="Animated Cal.com scheduling badge - Click to schedule a meeting" src="assets/cal-com-badge.svg" width="300" height="80">
+</a>
+
+**Interested in collaborating or discussing infrastructure, Web3, or AI-enhanced workflows?**
+
+[Schedule a 30-minute call](https://cal.com/jsonbored/30min) to chat about your project or explore potential opportunities.
+
+</div>
 
 ---
 
@@ -86,6 +166,6 @@ I'm a web3 infrastructure engineer passionate about building the next generation
 
 <div align="center">
 
-**Thanks for visiting! Feel free to reach out if you'd like to collaborate or chat about web3, infrastructure, or developer tools.** 🚀
+**Thanks for visiting! Feel free to reach out if you'd like to collaborate or chat about infrastructure, Web3, or developer tools.** 🚀
 
 </div>
