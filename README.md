@@ -10,11 +10,7 @@ interested in working together? [let's chat](https://cal.com/jsonbored/30min)
 
 <!--START_SECTION:waka-->
 
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
+<!-- WakaTime stats will appear here once you have coding activity -->
 
 <!--END_SECTION:waka-->
 
