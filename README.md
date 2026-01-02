@@ -11,14 +11,15 @@ interested in working together? [let's chat](https://cal.com/jsonbored/30min)
 <!--START_SECTION:waka-->
 
 ```json
-From: 26 December 2025 - To: 30 December 2025
+From: 26 December 2025 - To: 31 December 2025
 
-Total Time: 17 hrs 55 mins
+Total Time: 21 hrs 2 mins
 
-TypeScript   9 hrs 19 mins   █████████████░░░░░░░░░░░░   52.01 %
-YAML         2 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Markdown     2 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Other        1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+TypeScript   10 hrs 49 mins  █████████████░░░░░░░░░░░░   51.45 %
+Markdown     2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+YAML         2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+JSON         1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Other        1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 
 <!--END_SECTION:waka-->
