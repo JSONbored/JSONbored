@@ -6,7 +6,7 @@ interested in working together? [let's chat](https://cal.com/jsonbored/30min)
 
 ---
 
-📊 **coding activity this week**
+📊 **coding activity this month**
 
 <!--START_SECTION:waka-->
 
