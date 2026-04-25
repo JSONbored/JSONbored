@@ -11,7 +11,7 @@ interested in working together? [let's chat](https://cal.com/jsonbored/30min)
 <!--START_SECTION:waka-->
 
 ```json
-From: 26 December 2025 - To: 22 April 2026
+From: 26 December 2025 - To: 23 April 2026
 
 Total Time: 309 hrs 18 mins
 
