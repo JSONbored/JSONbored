@@ -1,30 +1,46 @@
-hi, i'm **ghost (aka) JSONbored** 👋
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="I make production boring — on purpose." width="100%" />
+</p>
 
-infrastructure engineer focused on building scalable systems for web3 networks, integrating AI into development workflows, and exploring edge computing solutions.
+<p align="center">
+  <a href="https://aethereal.dev"><img src="./assets/icons/aethereal.svg" alt="Aethereal" height="20" /></a>
+  &nbsp;&nbsp;
+  <a href="https://cal.com/jsonbored/30min"><img src="./assets/icons/calendar.svg" alt="Book a call" height="20" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jsonbored"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" height="20" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/JSONbored"><img src="./assets/icons/x.svg" alt="X" height="20" /></a>
+</p>
 
-interested in working together? [let's chat](https://cal.com/jsonbored/30min)
-
----
-
-📊 **coding activity this month**
-
-<!--START_SECTION:waka-->
-
-```json
-From: 26 December 2025 - To: 28 April 2026
-
-Total Time: 316 hrs 31 mins
-
-TypeScript   183 hrs 23 mins       ██████████████▒░░░░░░░░░░   57.94 %
-JSON         38 hrs 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-Markdown     28 hrs 3 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Other        16 hrs 43 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  Senior systems engineer for teams where deploys feel risky<br>and one person remembers the scary parts.
+</p>
 
 ---
 
-💬 **connect**
+## What I work on
 
-<a href="https://x.com/JSONbored" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/x.svg?color=%2358a6ff" alt="X" width="20" height="20"></a> <a href="https://github.com/JSONbored" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/github.svg?color=%2358a6ff" alt="GitHub" width="20" height="20"></a> <a href="https://discord.gg/Ax3Py4YDrq" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/discord.svg?color=%2358a6ff" alt="Discord" width="20" height="20"></a> <a href="mailto:ghost@zeronode.sh" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%2358a6ff" alt="Email" width="20" height="20"></a> <a href="https://cal.com/jsonbored/30min" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/simple-icons/caldotcom.svg?color=%2358a6ff" alt="Cal.com" width="20" height="20"></a>
+| | |
+|---|---|
+| **Reliability engineering** | Releases, rollback paths, alert noise, runbooks, ownership gaps — [WhisperNode](https://aethereal.dev/experience), [Informal Systems](https://aethereal.dev/experience), [EigenExplorer](https://aethereal.dev/experience) |
+| **Protocol & web3 infrastructure** | Validator ops, chain metadata, upgrade windows, IBC relay, audit-ready changes — [Spark IBC](https://aethereal.dev/experience), [carbonZERO](https://aethereal.dev/experience) |
+| **Self-hosted platform work** | Production-grade AIO templates, Unraid tooling, homelab infrastructure — [`awesome-unraid`](https://github.com/JSONbored/awesome-unraid), [Docker Hub](https://hub.docker.com/u/jsonbored) |
+| **Agentic AI systems** | n8n and agentic workflows with logs, approval gates, retries, fallbacks — [HeyClau.de](https://heyclau.de), [`awesome-claude`](https://github.com/JSONbored/awesome-claude) |
+| **Technical delivery & rescue** | Edge apps, internal tools, CLI/TUI surfaces, handoff-ready systems — [`opennextjs-cli`](https://github.com/JSONbored/opennextjs-cli), [`nightward`](https://github.com/JSONbored/nightward) |
+
+&nbsp;
+
+## Public proof
+
+| | |
+|---|---|
+| **Portfolio** | [aethereal.dev](https://aethereal.dev) — selected work, full history, contact |
+| **Open work** | [`awesome-unraid`](https://github.com/JSONbored/awesome-unraid) · [`awesome-claude`](https://github.com/JSONbored/awesome-claude) · [`opennextjs-cli`](https://github.com/JSONbored/opennextjs-cli) · [`nightward`](https://github.com/JSONbored/nightward) |
+| **Upstream** | [`we-promise/sure`](https://github.com/we-promise/sure/pulls/JSONbored) · [`cosmos/chain-registry`](https://github.com/cosmos/chain-registry/pulls?q=author%3AJSONbored) · [`eco-stake/validator-registry`](https://github.com/eco-stake/validator-registry/pulls?q=author%3AJSONbored) · [`SmartStake/relayers`](https://github.com/SmartStake/relayers/pulls?q=author%3AJSONbored) |
+| **Docker Hub** | [Sure](https://hub.docker.com/r/jsonbored/sure-aio) · [SimpleLogin](https://hub.docker.com/r/jsonbored/simplelogin-aio) · [Khoj](https://hub.docker.com/r/jsonbored/khoj-aio) · [Mem0](https://hub.docker.com/r/jsonbored/mem0-aio) · [Infisical](https://hub.docker.com/r/jsonbored/infisical-aio) |
+
+&nbsp;
+
+<p align="center">
+  <a href="https://aethereal.dev"><b>aethereal.dev →</b></a> &nbsp;&nbsp; <a href="https://cal.com/jsonbored/30min">Book a 30-min call →</a>
+</p>
