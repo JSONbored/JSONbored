@@ -1,0 +1,57 @@
+name: Profile README
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - assets/**
+      - .github/workflows/profile-readme.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-profile:
+    name: Validate profile surface
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Reject stale contact and timer references
+        shell: bash
+        run: |
+          set -euo pipefail
+          old_email='ghost@zero''node'
+          old_mail='mail''to:'
+          old_timer='START''_SECTION'
+          old_timer_source='wa''ka'
+          old_discord='discord''.gg'
+          old_gif='profile-hero''.gif'
+          old_png='profile-hero''.png'
+          pattern="${old_email}|${old_mail}|${old_timer}|${old_timer_source}|${old_discord}|${old_gif}|${old_png}"
+          if grep -RIE "$pattern" README.md .github assets; then
+            echo "Stale profile reference found."
+            exit 1
+          fi
+
+      - name: Validate profile assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f assets/profile-hero.svg
+          test -f assets/icons/aethereal.svg
+          test -f assets/icons/calendar.svg
+          test -f assets/icons/linkedin.svg
+          test -f assets/icons/x.svg
+          grep -F 'viewBox="0 0 1280 360"' assets/profile-hero.svg
+          grep -F './assets/profile-hero.svg' README.md
+          grep -F './assets/icons/aethereal.svg' README.md
+          grep -F './assets/icons/calendar.svg' README.md
+          grep -F './assets/icons/linkedin.svg' README.md
+          grep -F './assets/icons/x.svg' README.md
+          grep -F 'https://aethereal.dev' README.md
+          grep -F 'https://cal.com/jsonbored/30min' README.md
+          grep -F 'https://linkedin.com/in/jsonbored' README.md
+          grep -F 'https://x.com/JSONbored' README.md
+          grep -F 'https://heyclau.de' README.md
