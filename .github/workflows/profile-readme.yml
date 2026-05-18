@@ -29,7 +29,8 @@ jobs:
           old_discord='discord''.gg'
           old_gif='profile-hero''.gif'
           old_png='profile-hero''.png'
-          pattern="${old_email}|${old_mail}|${old_timer}|${old_timer_source}|${old_discord}|${old_gif}|${old_png}"
+          old_experience='aethereal.dev/exper''ience'
+          pattern="${old_email}|${old_mail}|${old_timer}|${old_timer_source}|${old_discord}|${old_gif}|${old_png}|${old_experience}"
           if grep -RIE "$pattern" README.md .github assets; then
             echo "Stale profile reference found."
             exit 1
@@ -55,3 +56,8 @@ jobs:
           grep -F 'https://linkedin.com/in/jsonbored' README.md
           grep -F 'https://x.com/JSONbored' README.md
           grep -F 'https://heyclau.de' README.md
+          grep -F 'https://aethereal.dev/portfolio?open=whispernode-operator-scale' README.md
+          grep -F 'https://aethereal.dev/portfolio?open=informal-systems-protocol-ops' README.md
+          grep -F 'https://aethereal.dev/portfolio?open=eigenexplorer-release-hardening' README.md
+          grep -F 'https://aethereal.dev/portfolio?open=interchain-ops-automation' README.md
+          grep -F 'https://aethereal.dev/portfolio?open=carbonzero-platform-cleanup' README.md

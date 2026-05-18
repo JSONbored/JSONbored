@@ -13,20 +13,20 @@
 </p>
 
 <p align="center">
-  Senior systems engineer for teams where deploys feel risky<br>and one person remembers the scary parts.
+  I make the parts of your stack that wake people up at 3am<br>boring enough that nobody has to think about them.
 </p>
 
 ---
 
-## What I work on
+## Focus areas
 
 | | |
 |---|---|
-| **Reliability engineering** | Releases, rollback paths, alert noise, runbooks, ownership gaps — [WhisperNode](https://aethereal.dev/experience), [Informal Systems](https://aethereal.dev/experience), [EigenExplorer](https://aethereal.dev/experience) |
-| **Protocol & web3 infrastructure** | Validator ops, chain metadata, upgrade windows, IBC relay, audit-ready changes — [Spark IBC](https://aethereal.dev/experience), [carbonZERO](https://aethereal.dev/experience) |
-| **Self-hosted platform work** | Production-grade AIO templates, Unraid tooling, homelab infrastructure — [`awesome-unraid`](https://github.com/JSONbored/awesome-unraid), [Docker Hub](https://hub.docker.com/u/jsonbored) |
-| **Agentic AI systems** | n8n and agentic workflows with logs, approval gates, retries, fallbacks — [HeyClau.de](https://heyclau.de), [`awesome-claude`](https://github.com/JSONbored/awesome-claude) |
-| **Technical delivery & rescue** | Edge apps, internal tools, CLI/TUI surfaces, handoff-ready systems — [`opennextjs-cli`](https://github.com/JSONbored/opennextjs-cli), [`nightward`](https://github.com/JSONbored/nightward) |
+| **Reliability engineering** | Taming noisy alerts, patching ownership gaps, building runbooks that actually get used.<br>[WhisperNode](https://aethereal.dev/portfolio?open=whispernode-operator-scale) · [Informal Systems](https://aethereal.dev/portfolio?open=informal-systems-protocol-ops) · [EigenExplorer](https://aethereal.dev/portfolio?open=eigenexplorer-release-hardening) |
+| **Protocol & web3** | Validator ops, chain metadata, upgrade windows, IBC relay — the stuff that breaks silently and costs loudly.<br>[Spark IBC](https://aethereal.dev/portfolio?open=interchain-ops-automation) · [carbonZERO](https://aethereal.dev/portfolio?open=carbonzero-platform-cleanup) |
+| **Self-hosted platforms** | AIO templates and Unraid tooling for people who want enterprise-grade infra without the enterprise.<br>[`awesome-unraid`](https://github.com/JSONbored/awesome-unraid) · [Docker Hub](https://hub.docker.com/u/jsonbored) |
+| **Agentic AI systems** | Workflows that actually finish: approval gates, retries, fallbacks, logs — not just vibes and a demo video.<br>[HeyClau.de](https://heyclau.de) · [`awesome-claude`](https://github.com/JSONbored/awesome-claude) |
+| **Technical delivery** | Edge apps, internal tools, CLI/TUI surfaces — built to outlast the person who built them.<br>[`opennextjs-cli`](https://github.com/JSONbored/opennextjs-cli) · [`nightward`](https://github.com/JSONbored/nightward) |
 
 &nbsp;
 
